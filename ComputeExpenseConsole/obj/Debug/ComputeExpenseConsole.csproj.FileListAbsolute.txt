@@ -1,0 +1,7 @@
+D:\Temp\ComputeExpenseConsole\ComputeExpenseConsole\bin\Debug\ComputeExpenseConsole.exe.config
+D:\Temp\ComputeExpenseConsole\ComputeExpenseConsole\bin\Debug\ComputeExpenseConsole.exe
+D:\Temp\ComputeExpenseConsole\ComputeExpenseConsole\bin\Debug\ComputeExpenseConsole.pdb
+D:\Temp\ComputeExpenseConsole\ComputeExpenseConsole\obj\Debug\ComputeExpenseConsole.csprojResolveAssemblyReference.cache
+D:\Temp\ComputeExpenseConsole\ComputeExpenseConsole\obj\Debug\ComputeExpenseConsole.csproj.CoreCompileInputs.cache
+D:\Temp\ComputeExpenseConsole\ComputeExpenseConsole\obj\Debug\ComputeExpenseConsole.exe
+D:\Temp\ComputeExpenseConsole\ComputeExpenseConsole\obj\Debug\ComputeExpenseConsole.pdb
